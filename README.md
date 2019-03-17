@@ -1,5 +1,5 @@
 # A pretty bad test about a cube
-A project created following the "[How to make a Video Game](https://www.youtube.com/watch?v=j48LtUkZRjU&list=PLPV2KyIb3jR53Jce9hP7G5xC4O9AgnOuL)" series by [@Brackeys](https://github.com/Brackeys) in Unity and C#.
+A project created following the "[How to make a Video Game](https://www.youtube.com/watch?v=j48LtUkZRjU&list=PLPV2KyIb3jR53Jce9hP7G5xC4O9AgnOuL)" series by [@Brackeys](https://github.com/Brackeys) and expanded with additional features. Created using C# and Unity.
 
 This is not a very good game, hence the title. I'm using this to learn some fundamental skills in C# and Unity.
 
